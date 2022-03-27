@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: livemicronaut
+netty:
+  default:
+    allocator:
+      max-order: 3
